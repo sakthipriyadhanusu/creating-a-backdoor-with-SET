@@ -19,7 +19,9 @@ Open terminal and try execute some kali linux commands
 Social Engineering attacks are the various cons used by the hackers to trick people into providing sensitive data to the attackers. 
 The command sudo setoolkit in the prompt gives menu with set prompt:
 ![image](https://github.com/sakthipriyadhanusu/creating-a-backdoor-with-SET/assets/119393194/e93ed3fd-84a5-4211-b74f-351406999a2b)
+
 It displays the following menu and select 2 for Website Attack Vectors:
+
 ![image](https://github.com/sakthipriyadhanusu/creating-a-backdoor-with-SET/assets/119393194/aa33f15e-8848-492d-9427-da921c35acfd)
 The website Attack Vectors displays the following menu. In this menu3 for Credential Harvester Attack Method is selected:
 ![image](https://github.com/sakthipriyadhanusu/creating-a-backdoor-with-SET/assets/119393194/260d5a74-2e3d-47a9-9d9c-e2259b9ebb0b)
